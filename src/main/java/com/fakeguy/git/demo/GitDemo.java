@@ -12,9 +12,11 @@ public class GitDemo {
         System.out.println("hehe!");
         System.out.println("haha!");
         System.out.println("dev change");
+        System.out.println("master modify");
         System.out.println("Dev modify");
         System.out.println("master branch");
         System.out.println("dev test02");
 
+        System.out.println("master gitee！！！");
     }
 }
