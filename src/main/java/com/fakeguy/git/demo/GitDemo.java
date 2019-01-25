@@ -12,5 +12,6 @@ public class GitDemo {
         System.out.println("hehe!");
         System.out.println("haha!");
         System.out.println("dev change");
+        System.out.println("master modify");
     }
 }
