@@ -14,6 +14,7 @@ public class GitDemo {
         System.out.println("dev change");
         System.out.println("Dev modify");
         System.out.println("master branch");
+        System.out.println("dev test02");
 
     }
 }
